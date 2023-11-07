@@ -22,3 +22,7 @@ Me chamo Maria Eduarda, tenho 20 anos e atualmente faço Licenciatura em Computa
 [![Projeto Open Source](https://github-readme-stats.vercel.app/api/pin/?username=maria-dias2&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/maria-dias2/desafio-logica)
 
 [![Desafio Logica](https://github-readme-stats.vercel.app/api/pin/?username=maria-dias2&repo=desafio-logica&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/maria-dias2/desafio-logica)
+
+### Trilha Digital | Web Front-End
+[![Coders](https://github-readme-stats.vercel.app/api/pin/?username=maria-dias2&repo=santander-coders&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/maria-dias2/santander-coders)
+
